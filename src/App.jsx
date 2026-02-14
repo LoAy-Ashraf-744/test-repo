@@ -9,7 +9,7 @@ function App() {
       <div className="hero">
         <h1 className="title">Testing Animations</h1>
         <p className="subtitle">
-          Experience stunning, premium-quality animations built with React
+          Experience stunning, premium-quality animations built with React change
         </p>
       </div>
 
