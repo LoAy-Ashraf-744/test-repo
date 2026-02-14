@@ -20,7 +20,7 @@ function App() {
           onMouseEnter={() => setHoveredCard('pulse')}
           onMouseLeave={() => setHoveredCard(null)}
         >
-          <h3 className="card-title">Pulse Effect</h3>
+          <h3 className="card-title">Pulse Effect for now how ???</h3>
           <div className="pulse-container">
             <div className="pulse-circle"></div>
           </div>
